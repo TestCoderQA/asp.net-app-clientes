@@ -1,0 +1,17 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaEntidad\obj\Debug\CapaEntidad.pdb
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.dll
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaEntidad\bin\Debug\CapaEntidad.pdb
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.dll
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaEntidad\obj\Debug\CapaEntidad.pdb

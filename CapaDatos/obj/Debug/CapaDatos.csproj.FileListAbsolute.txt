@@ -1,0 +1,25 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.dll
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaDatos.pdb
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaEntidad.dll
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\bin\Debug\CapaEntidad.pdb
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.dll
+\\vmware-host\Shared Folders\Escritorio\DemoCapas ASP.NET-SQL Server\CapaDatos\obj\Debug\CapaDatos.pdb
